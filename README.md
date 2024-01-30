@@ -10,6 +10,9 @@ Dotenv para los valores de conexión.
 # add .env
 $ cp .env.example .env
 
+# install deps
+$ npm install
+
 # run migrations
 $ npm run typeorm migration:run
 
